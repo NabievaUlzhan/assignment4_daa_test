@@ -1,5 +1,6 @@
-package graph.scc;
+package graph.test;
 import graph.common.Edge;
+import graph.scc.TarjanSCC;
 import org.junit.Assert;
 import org.junit.Test;
 import java.util.ArrayList;
